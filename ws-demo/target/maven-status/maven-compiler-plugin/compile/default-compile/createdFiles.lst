@@ -1,0 +1,5 @@
+org/me/model/Message.class
+org/me/transform/MessageDecoder.class
+org/me/transform/MessageEncoder.class
+org/me/Main.class
+org/me/server/ChatEndpoint.class
